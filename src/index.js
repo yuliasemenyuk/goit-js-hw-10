@@ -25,14 +25,14 @@ function searchCountry () {
     )
 }
 
-function showCountryCard() {
+// function showCountryCard() {
   
-}
+// }
 
-function showListOfCountries() {
+// function showListOfCountries() {
     
-}
+// }
 
-function showError() {
+// function showError() {
 
-}
+// }
